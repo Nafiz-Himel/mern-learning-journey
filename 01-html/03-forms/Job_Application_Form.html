@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h2>Job Application</h2>
+
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name">
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email">
+        <br><br>
+
+        <label for="phone">Phone:</label>
+        <input type="tel" name="phone" id="phone">
+        <br><br>
+
+        <label for="file">Resume:</label><br><br>
+        <input type="file" name="file" id="file">
+        <br><br>
+
+        <label for="years">Experience(years):</label><br><br>
+        <input type="number" name="years" id="years" min="0" max="50">
+        <br><br>
+
+        <fieldset>
+            <legend>Skills</legend>
+            <input type="checkbox" name="charbox1" id="charbox1"><br>
+            <label for="charbox1">HTML</label><br>
+
+            <input type="checkbox" name="charbox2" id="charbox2"><br>
+            <label for="charbox2">CSS</label><br>
+
+            <input type="checkbox" name="charbox3" id="charbox3"><br>
+            <label for="charbox1">JavaScript</label>
+
+        </fieldset>
+        <br><br>
+
+        <label for="edu">Highest Education:</label><br>
+        <select type="checkbox" name="edu" id="edu">
+            <option value="1">SSC</option>
+            <option value="2">HSC</option>
+            <option value="3">BsC</option>
+            <option value="4">MsC</option>
+        </select>
+        <br><br>
+
+        <input type="radio" name="1" id="1"><br>
+        <label for="1">Full Time</label><br>
+
+        <input type="radio" name="1" id="2"><br>
+        <label for="2">Part Time</label><br>
+
+        <label for="msg">Additional Comments:</label><br>
+        <textarea name="msg" id="msg"></textarea>
+
+        <label for="button"></label>
+        <input type="submit" name="button" id="button" value="Submit Application">
+    </form>
+</body>
+</html>
