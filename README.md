@@ -1,2 +1,15 @@
-# mern-learning-journey
-A structured repository documenting my progress in the MERN stack, from HTML fundamentals to full-stack development.
+# MERN Learning Journey
+
+This repository documents my step-by-step learning of the MERN stack.
+
+## Current Progress
+- ✅ HTML
+
+## Upcoming
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+
+I will keep updating this repository as I progress.
