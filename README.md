@@ -6,10 +6,11 @@ This repository documents my step-by-step learning of the MERN stack.
 - ✅ HTML
 - ✅ CSS
 - ✅ JavaScript
+- ✅ React
 
 ## Upcoming
 
-- React
+
 - Node.js
 - MongoDB
 
