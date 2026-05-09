@@ -34,6 +34,7 @@ mern-learning-journey/
 ├── projects/              # Mini & Major Projects
 ├── resources/             # Notes, cheat sheets, best practices
 └── README.md
+```
 
 ## 🛠 Technologies I'm Learning
 
